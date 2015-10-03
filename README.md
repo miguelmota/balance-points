@@ -2,6 +2,8 @@
 
 > Find the balance points of an array.
 
+A balance point is where the left side of the index is equal to the right side of the index. This function returns an array of indices of balance points.
+
 # Install
 
 ```bash

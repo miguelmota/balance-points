@@ -1,6 +1,6 @@
 {
   "name": "balance-points",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find the balance points of an array.",
   "main": "balance-points.js",
   "directories": {
