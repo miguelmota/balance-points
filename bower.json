@@ -1,0 +1,25 @@
+{
+  "name": "balance-points",
+  "main": "balance-points.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/balance-points",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Find the balance points of an array.",
+  "keywords": [
+    "array",
+    "collection",
+    "points",
+    "balance",
+    "index"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
