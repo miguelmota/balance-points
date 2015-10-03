@@ -1,5 +1,5 @@
-var test = require('tape');
-var balancePoints = require('../balance-points');
+const test = require('tape');
+const balancePoints = require('../balance-points');
 
 test('balancePoints', function (t) {
   'use strict';
