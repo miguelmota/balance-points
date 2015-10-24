@@ -17,7 +17,7 @@ bower install balance-points
 # Usage
 
 ```javascript
-cosnt balancepoints = require('balance-points');
+const balancepoints = require('balance-points');
 
 console.log(balancePoints([3, -2, 0, 4, 6, -5])); // [3]
 console.log(balancePoints([1, 0, 0, 1])); // [1, 2]
